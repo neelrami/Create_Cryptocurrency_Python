@@ -30,3 +30,4 @@ This project aims to develop a cryptocurrency using Python programming language.
 * <https://medium.com/swlh/how-does-bitcoin-blockchain-mining-work-36db1c5cb55d>
 * <https://www.getpostman.com/docs/v6/>
 * <http://learnmeabitcoin.com/guide/>
+* <https://blockchain.berkeley.edu/resources/>
