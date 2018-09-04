@@ -14,11 +14,7 @@ This project is created merely for educational and informational purposes only.
 
 ## About  
 
-This project aims to develop a cryptocurrency using Python programming language. Please keep in mind that it's not a implementation of any exisiting cryptocurrency. 
-
-## Key Points to note
-
-1. Rather than executing python scripts on different machines, I have run the python scripts on the same machine but on different ports.
+This project aims to develop a cryptocurrency using Python programming language. Please keep in mind that it's not a implementation of any exisiting cryptocurrency. Rather than executing python scripts on different machines, I have run the python scripts on the same machine but on different ports.
 
 ## Code Explanation
 
