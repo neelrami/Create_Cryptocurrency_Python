@@ -18,6 +18,8 @@ This project aims to develop a cryptocurrency using Python programming language.
 
 ## Code Explanation
 
+Comments have been added in the code and also if a little time is spent on reading the code, then it's pretty easy to understand the code as well.
+
 ## Conclusion
 
 ## References
